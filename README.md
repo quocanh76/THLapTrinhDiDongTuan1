@@ -18,10 +18,10 @@ Các thông tin bao gồm:
 ✅ Hỗ trợ lựa chọn năm học và chuyên ngành  
 
 ## 📂 Cấu Trúc Dự Án  
-── activity_main.xml # Giao diện màn hình nhập thông tin │ <br>
-── activity_second.xml # Giao diện màn hình hiển thị thông tin │ <br>
-── MainActivity.java # Xử lý nhập và gửi dữ liệu │ <br>
-── SecondActivity.java # Xử lý nhận và hiển thị dữ liệu │ <br>
+- activity_main.xml # Giao diện màn hình nhập thông tin  <br>
+- activity_second.xml # Giao diện màn hình hiển thị thông tin  <br>
+- MainActivity.java # Xử lý nhập và gửi dữ liệu  <br>
+- SecondActivity.java # Xử lý nhận và hiển thị dữ liệu <br>
 
 ## 📌 Hướng Dẫn Sử Dụng  
 1. **Nhập thông tin sinh viên** vào các ô nhập liệu.  
@@ -36,14 +36,14 @@ Các thông tin bao gồm:
 - Nếu không chọn năm học hoặc chuyên ngành, ứng dụng sẽ hiển thị "Không chọn".  
 - Dữ liệu được truyền qua `Intent` giữa các Activity.  
 
-## Hình ảnh minh họa  
-📷 <br>
+## 📷 Hình ảnh minh họa  
+ <br>
 <img src = "https://github.com/user-attachments/assets/f9b237f0-5a3a-4b5c-b3b3-c7973b2eff98" width ="200"/>
 <img src = "https://github.com/user-attachments/assets/6e090c4f-a3b6-4323-86eb-71cf6f50f497" width ="200"/>
 
 <br>
 
-## Tác Giả
+## 📧 Tác Giả
 Ứng dụng được phát triển bởi:
 <br>
 **21200027 - Hà Quốc Anh**.   
